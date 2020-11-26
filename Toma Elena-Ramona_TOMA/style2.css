@@ -1,0 +1,20 @@
+head {background-color=#8e8e71;}
+	h1 { border: 2px solid black;
+	color: #bbbbaa;}
+body 	
+	h2 {color: #bbbbaa;}
+	h2 {color: #bbbbaa ;}
+	h2 {color: #bbbbaa; }
+	h2 {color: #bbbbaa; }
+	ul {color: #000000;
+	    align= "center"; }
+	div  {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+	  color: #bbbbaa;}
+ 
+		table, tr, td, ul {border: 1px solid black ;
+          align= "right"		}
+	   tr:hover {background-color: black; }
